@@ -14,7 +14,9 @@ Backup factory bin(option)
 5. insert your usb disk to Y1's USB port, and make sure it succefully mounted.
 
 6. open putty to ssh your router, in putty, excute the following command to backup the fireware `cd /mnt/sda1` `dd if=/dev/mtd2 of=factory.bin` `dd if =/dev/mtd3 of=fullflash.bin`
+
 ![image](https://user-images.githubusercontent.com/16233397/170901576-f23584df-0d65-404b-8037-2fc68be0e082.png)
+
 You will find there are two bin in the usb disk.
 
 Install openwrt
