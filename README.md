@@ -1,8 +1,8 @@
 # openwrt-configuration
 
-Guide to install openwrt on lenovo newifi mini Y1(model: R6830);
+*Guide to install openwrt on lenovo newifi mini Y1(model: R6830);
 
-Backup factory bin(option)
+*Backup factory bin(option)*
 1. power on your Y1, hold on reset button about ten seconds to restore your Y1.
 
 2. connet your Y1's LAN port to PC with RJ45 cable.
