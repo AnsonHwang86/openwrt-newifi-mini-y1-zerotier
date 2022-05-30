@@ -1,8 +1,8 @@
 # openwrt-configuration
 
-*Guide to install openwrt on lenovo newifi mini Y1(model: R6830);
+*Guide to install openwrt on lenovo newifi mini Y1(model: R6830)*
 
-*Backup factory bin(option)*
+**Backup factory bin(option)**
 1. power on your Y1, hold on reset button about ten seconds to restore your Y1.
 
 2. connet your Y1's LAN port to PC with RJ45 cable.
@@ -19,7 +19,7 @@
 
 You will find there are two bin in the usb disk.
 
-Install openwrt
+**Install openwrt**
 
 1.download openwrt firmware for Y1, from https://openwrt.org/toh/hwdata/lenovo/lenovo_newifi_mini_y1 , download firmware, you can download snapshot version(without lucci).
   I choice fullversion this time. `openwrt-21.02.3-ramips-mt7620-lenovo_newifi-y1-squashfs-sysupgrade.bin`
@@ -51,7 +51,7 @@ upload the breed firmware, and submit, wait a minute, the will breed will succes
 
 12.enjoy your openwrt now.
 
-install zerotier on openwrt please find the reference
+**install zerotier on openwrt please find the reference**
 https://github.com/mwarning/zerotier-openwrt/wiki
 
 Note: if you want to visit device behind router, please don't forget to check the "WAN" in the firewall setting 
